@@ -78,8 +78,8 @@
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
-      width="40"
-      height="40"
+      width="37"
+      height="37"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
