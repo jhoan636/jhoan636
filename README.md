@@ -4,10 +4,20 @@
   experience in different programming languages.
 </h3>
 
-- 🔭 I’m currently working on **my first project**
+- 🔭 I’m currently working on [my first project](https://github.com/jhoan636/qr-code-component-main)
+
+- 🌱 I’m currently learning **Docker, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://github.com/jhoan636" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="https://github.com/jhoan636"
+      height="30"
+      width="40"
+  /></a>
   <a href="https://twitter.com/jhoanlondoo7" target="blank"
     ><img
       align="center"
@@ -124,22 +134,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
       width="40"
       height="40"
     />
