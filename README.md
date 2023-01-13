@@ -4,7 +4,7 @@
   experience in different programming languages.
 </h3>
 
-- 🔭 I’m currently working on [my first project](https://github.com/jhoan636/qr-code-component-main)
+- 🔭 I’m currently working on [QR code component](https://github.com/jhoan636/qr-code-component-main)
 
 - 🌱 I’m currently learning **Docker, AWS**
 
