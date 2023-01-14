@@ -27,7 +27,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
+    href="https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
     target="blank"
     ><img
       align="center"
