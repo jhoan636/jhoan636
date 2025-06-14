@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jhoan Esteban Londoño Escobar</h1>
 <h3 align="center">
-  Backend developer passionate about continuous learning and innovation, with
-  experience in different programming languages.
+    Passionate backend developer with a strong focus on scalable solutions, clean architecture, and continuous learning.
 </h3>
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🔭 I’m currently working on enhancing my skills in **cloud infrastructure and containerization**
+- 🌱 Actively learning **Docker** and **AWS** to deepen my DevOps knowledge
+- 🛠️ Experienced with building robust backend systems using **Java**, **Spring Boot**, **Node.js**, and **Express**
+- ⚙️ I enjoy solving complex problems, optimizing APIs, and designing maintainable systems
+- 💬 Always open to collaborating on open-source projects and backend challenges
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
