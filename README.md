@@ -1,166 +1,34 @@
-<h1 align="center">Hi 👋, I'm Jhoan Esteban Londoño Escobar</h1>
-<h3 align="center">
-    Passionate backend developer with a strong focus on scalable solutions, clean architecture, and continuous learning.
-</h3>
+<h1 align="center">Jhoan Londoño Escobar</h1>
+<h3 align="center">Backend Engineer · Java · Spring Boot · Microservicios · PostgreSQL</h3>
 
-- 🔭 I’m currently working on enhancing my skills in **cloud infrastructure and containerization**
-- 🌱 Actively learning **Docker** and **AWS** to deepen my DevOps knowledge
-- 🛠️ Experienced with building robust backend systems using **Java**, **Spring Boot**, **Node.js**, and **Express**
-- ⚙️ I enjoy solving complex problems, optimizing APIs, and designing maintainable systems
-- 💬 Always open to collaborating on open-source projects and backend challenges
+Mantengo el backend de una plataforma de facturación electrónica que envía **más de 100.000 documentos al día a la DIAN**. Mi trabajo es que cada factura, nómina o nota crédito llegue firmada, válida y a tiempo.
 
-<h3 align="left">Connect with me:</h3>
+### En el trabajo
+
+- Procesos masivos con **Spring Batch**: llevarlos a ejecución concurrente redujo un 15% el tiempo del procesamiento diario.
+- Optimización de consultas en **PostgreSQL**: 20% menos en los tiempos de respuesta.
+- Rechazos de la DIAN resueltos en su causa raíz, desde redondeos con `BigDecimal` hasta condiciones de carrera en el cálculo del CUNE.
+- Microservicios en producción que conviven con módulos legados (Spring XML, SOAP con Apache CXF).
+
+### Fuera del trabajo
+
+| Proyecto | Qué demuestra |
+| --- | --- |
+| [veterinarIA-API](https://github.com/Umbrabilis/veterinarIA-API) | 4 microservicios con Java 21 y Spring Boot 4, JWT RS256 + JWKS, base de datos por servicio, gateway en Nginx, Testcontainers |
+| [cannon-api](https://github.com/jhoan636/cannon-api) | API reactiva con WebFlux, Resilience4j (Circuit Breaker, Retry, TimeLimiter), Redis como respaldo y métricas en Prometheus |
+| [attendance-system-api](https://github.com/jhoan636/attendance-system-api) | Sistema de asistencia en producción para un cliente real: Spring Boot, PostgreSQL, Flyway, desplegado en Railway |
+
+### Stack
+
+- **Lenguajes:** Java (8, 17, 21) · SQL · TypeScript
+- **Backend:** Spring Boot · Spring Batch · Spring WebFlux · Spring Data JPA · MyBatis · Spring Cloud
+- **Datos:** PostgreSQL · Oracle PL/SQL · MongoDB · Redis · Flyway
+- **Calidad e infraestructura:** JUnit · Mockito · Testcontainers · Docker · Maven · AWS
+
+### Ahora mismo
+
+Estudio Ingeniería Informática en el Politécnico Colombiano Jaime Isaza Cadavid y estoy mejorando mi inglés.
+
 <p align="left">
-    <a href="https://github.com/jhoan636" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="https://github.com/jhoan636"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/jhoanlondoo7" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jhoanlondoo7"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="33"
-      height="33"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="33"
-      height="33"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="37"
-      height="37"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="37"
-      height="37"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="35"
-      height="35"
-    />
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="35"
-      height="35"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/jhoan-londono-escobar">LinkedIn</a>
 </p>
